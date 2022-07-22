@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm DaYuan</h1>
-<h3 align="center">A passionate frontend developer from Taiwan</h3>
+<h3 align="center">Innovative developers with a passion for technology and design</h3>
 
 
 
