@@ -27,7 +27,19 @@ Here are some ideas to get you started:
 <h3 align="left">My projects:</h3>
 
 
-![Frame 732](https://user-images.githubusercontent.com/16307922/180207783-a02890c3-cd7c-42d5-90fe-ee0c83c7b552.png)
+
+
+
+<a href="https://github.com/CS6/CS6/blob/main/projects/project_Capture.md" target="_blank" >
+<img src="https://user-images.githubusercontent.com/16307922/180207783-a02890c3-cd7c-42d5-90fe-ee0c83c7b552.png" loading="lazy" alt="project_Capture">
+</a>
+
+
+
+<!-- ![Frame 732](https://user-images.githubusercontent.com/16307922/180207783-a02890c3-cd7c-42d5-90fe-ee0c83c7b552.png) -->
+
+
+
 
 
 ![Frame 736](https://user-images.githubusercontent.com/16307922/180339058-c5a9ae67-1ead-4e8b-8a35-ad5adbcdac8b.png)
