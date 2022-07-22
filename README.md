@@ -29,7 +29,12 @@ Here are some ideas to get you started:
 
 ![Frame 732](https://user-images.githubusercontent.com/16307922/180207783-a02890c3-cd7c-42d5-90fe-ee0c83c7b552.png)
 
+
+![Frame 736](https://user-images.githubusercontent.com/16307922/180339058-c5a9ae67-1ead-4e8b-8a35-ad5adbcdac8b.png)
+
+
 ![neko 改字 -13](https://user-images.githubusercontent.com/16307922/180299919-bf10c7f1-700a-4888-a21a-9edc4a08535c.png)
+
 
 
 If you want to know more about me and see my projects access CS6.github.io
