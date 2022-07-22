@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 
 
-If you want to know more about me and see my projects access CS6.github.io
+If you want to know more about me and see my projects access [CS6.github.io](https://CS6.github.io)  [dayuan.dev](https://dayuan.dev)  
 
 
 
