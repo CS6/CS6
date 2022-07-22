@@ -45,8 +45,17 @@ Here are some ideas to get you started:
 ![Frame 736](https://user-images.githubusercontent.com/16307922/180339058-c5a9ae67-1ead-4e8b-8a35-ad5adbcdac8b.png)
 
 
-![neko 改字 -13](https://user-images.githubusercontent.com/16307922/180299919-bf10c7f1-700a-4888-a21a-9edc4a08535c.png)
 
+<a href="https://github.com/CS6/CS6/blob/main/projects/project_neko_box.md" target="_blank" >
+<img src="https://user-images.githubusercontent.com/16307922/180299919-bf10c7f1-700a-4888-a21a-9edc4a08535c.png" loading="lazy" alt="project_neko_box">
+</a>
+
+
+
+
+<a href="https://github.com/CS6/CS6/blob/main/projects/project_BTF.md" target="_blank" >
+<img src="https://user-images.githubusercontent.com/16307922/180371822-90a60cc6-8c9f-46ba-b6c2-b8f5a22335f1.png" loading="lazy" alt="project_BTF">
+</a>
 
 
 If you want to know more about me and see my projects access [CS6.github.io](https://CS6.github.io)  [dayuan.dev](https://dayuan.dev)  
