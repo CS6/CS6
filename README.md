@@ -41,8 +41,16 @@ Here are some ideas to get you started:
 
 
 
+<a href="https://github.com/CS6/CS6/blob/main/projects/project_MyLog.md" target="_blank" >
+<img src="https://user-images.githubusercontent.com/16307922/180597879-b801dfa8-2c56-407f-a8d1-1fdc28d8b9b2.png" loading="lazy" alt="project_MyLog">
+</a>
 
-![Frame 736](https://user-images.githubusercontent.com/16307922/180339058-c5a9ae67-1ead-4e8b-8a35-ad5adbcdac8b.png)
+
+<a href="https://github.com/CS6/CS6/blob/main/projects/project_Lifebox.md" target="_blank" >
+<img src="https://user-images.githubusercontent.com/16307922/180339058-c5a9ae67-1ead-4e8b-8a35-ad5adbcdac8b.png" loading="lazy" alt="project_Lifebox">
+</a>
+
+
 
 
 
